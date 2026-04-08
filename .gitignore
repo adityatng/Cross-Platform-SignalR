@@ -1,0 +1,120 @@
+# =========================
+# .NET / C# / Visual Studio
+# =========================
+[Bb]in/
+[Oo]bj/
+[Dd]ebug*/
+[Rr]elease*/
+x64/
+x86/
+[Aa][Rr][Mm]*/
+[Ll]og*/
+*.nupkg
+*.snupkg
+project.lock.json
+project.fragment.lock.json
+artifacts/
+ScaffoldingReadMe.txt
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+*.class
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+*.VisualState.xml
+TestResult.xml
+nunit-*.xml
+*.binlog
+# User-specific files
+*.user
+*.userosscache
+*.sln.docstates
+
+Migrations/
+
+# =========================
+# Flutter / Dart
+# =========================
+.build/
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.pub-cache/
+.pub/
+/build/
+/coverage/
+**/doc/api/
+**/ios/Flutter/.last_build_id
+app.*.symbols
+app.*.map.json
+/android/app/debug
+/android/app/profile
+/android/app/release
+/Flutter/r/windows
+/Flutter/r/android
+/Flutter/r/ios
+/Flutter/r/linux
+/Flutter/r/macos
+/Flutter/r/web
+Flutter/r/.metadata
+Flutter/r/analysis_options.yaml
+Flutter/r/pubspec.lock
+# Generated plugin registrant files
+**/generated_plugin_registrant.*
+
+# =========================
+# Node / Vue / Frontend
+# =========================
+node_modules/
+dist/
+dist-ssr/
+*.local
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+# Vue specific
+Vue/r/.vscode/extensions.json
+# Build caches
+*.cache
+*.temp
+
+# =========================
+# IDE / Editor
+# =========================
+.vscode/*
+!.vscode/extensions.json
+.idea/
+*.iml
+*.ipr
+*.iws
+.DS_Store
+.atom/
+.buildlog/
+.history/
+.swiftpm/
+.migrate_working_dir/
+*.sublime-workspace
+*.sublime-project
+*.vscode-test/
+
+# =========================
+# System / Miscellaneous
+# =========================
+~$*
+*~
+logs/
+*.log
+*.tmp
+*.swp
+*.bak
+*.old
+*.orig
+*.rej
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
